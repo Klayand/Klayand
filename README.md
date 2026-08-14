@@ -1,6 +1,10 @@
 <h1 align="center">Zikai Zhou</h1>
 
 <p align="center">
+  <img src="assets/hkust-gz-logo.png" alt="The Hong Kong University of Science and Technology (Guangzhou)" height="58">
+</p>
+
+<p align="center">
   MPhil Student @ HKUST(GZ) &nbsp;|&nbsp; Visual Generation &nbsp;|&nbsp; Efficient Sampling &nbsp;|&nbsp; Data and Evaluation
 </p>
 
