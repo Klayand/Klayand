@@ -17,7 +17,7 @@
 
 I am an MPhil student at HKUST(GZ), advised by Prof. Zeke Xie. My work focuses on generative AI, efficient sampling, visual foundation models, and data-centric model improvement.
 
-Currently, I am a Research Intern at Alibaba Group's Qwen Image Foundation Model Team, where I contribute end-to-end to Qwen Image 2.0, Qwen Image 3.0, Turbo, RL, and few-step variants across data pipelines, training feedback, distillation, evaluation, and product-facing iteration.
+Currently, I am a Research Intern at Alibaba Group's Qwen Image Foundation Model Team, where I contribute end-to-end to Qwen Image 2.0/2.1, Qwen Image 3.0/3.1, Turbo, RL, and few-step variants across data pipelines, training feedback, distillation, evaluation, and product-facing iteration.
 
 ## Contact
 
